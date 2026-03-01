@@ -11,8 +11,8 @@ Exploratory Data Analysis (EDA)
 Project Objective
 
 Analyze customer shopping behavior to uncover:
-High-value customers
-Top-performing products
+High value customers
+Top performing products
 Discount effectiveness
 Purchase trends by category
 Shipping impact on spending
@@ -35,7 +35,7 @@ Window Functions (ROW_NUMBER, PARTITION BY)
 Subqueries & Aggregations
 
   Why This Project Matters
-This project simulates a real-world retail analytics scenario,
+This project simulates a real world retail analytics scenario,
 focusing on transforming raw transactional data into actionable insights.
 It reflects practical data analyst skills required in:
 E-commerce analytics

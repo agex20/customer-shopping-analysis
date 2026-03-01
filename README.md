@@ -1,4 +1,4 @@
-Customer Shopping Analysis
+#Customer Shopping Analysis
 
 Data Analysis Project (SQL + Python + Pandas)
 [All in VS Code]
